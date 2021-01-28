@@ -29,7 +29,7 @@ The team needs a coach before the final submission at the end of the hackathon.
 
 ## Hackathon Tentative Schedule
 ### Day 1 Orientation and Preparation
-|  Tuesday (Feb 16)|  |
+|  Tue (Feb 16)|  |
 | -------------- | --------------------------------- |
 | 9:30 - | Opening remarks & Orientation|
 | 10:00 - 10:30 | Qiskit Installation - Soyoung Shin, Qiskit Advocate|
@@ -41,7 +41,7 @@ The team needs a coach before the final submission at the end of the hackathon.
 | 16:20 - 17:00 | Team Formation & Project Planning 1|
 
 ### Day 2 Quantum Special Lectures
-| Wednesday (Feb 17)|  |
+| Wed (Feb 17)|  |
 | -------------- | --------------------------------- |
 | 09:00 - 09:30 | Introduction to Quantum Computing – Paul Nation, IBM |
 | 09:30 - 10:00 | Quantum Machine Learning -  June-Koo Kevin Rhee, KAIST |
@@ -52,14 +52,14 @@ The team needs a coach before the final submission at the end of the hackathon.
 | 14:00 - 15:00 | Team Formation 2 ( All Teams Ready) |
 
 ### Day 3 Hackathon
-| Thursday (Feb 18) |  |
+| Thu (Feb 18) |  |
 | -------------- | --------------------------------- |
 | 09:00 - 12:00 | Hackathon 1 (Coding) |
 | 12:00 - 13:30 | Break & Lunch |
 | 13:30 - 16:30 | Hackathon 2 (Coding) |
 
 ### Day 4 Hackathon/Final Presentation/Awards
-| Friday (Feb 19) |  |
+| Fri (Feb 19) |  |
 | -------------- | --------------------------------- |
 | 09:00 - 14:00 | Hackathon 3 (Take lunch break in between) |
 | 14:00 - 15:00 | Coding Ends, Preparation for Presentation |
