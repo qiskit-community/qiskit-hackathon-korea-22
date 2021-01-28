@@ -29,7 +29,7 @@ The team needs a coach before the final submission at the end of the hackathon.
 
 ## Hackathon Tentative Schedule
 ### Day 1 Orientation and Preparation
-|  Tue (Feb 16)|  |
+| Tue (Feb 16)|  |
 | -------------- | --------------------------------- |
 | 9:30 - | Opening remarks & Orientation|
 | 10:00 - 10:30 | Qiskit Installation - Soyoung Shin, Qiskit Advocate|
