@@ -36,7 +36,7 @@ The team needs a coach before the final submission at the end of the hackathon.
 | 10:30 - 11:30 | Quantum Computing with Qiskit - Fundamentals - Hwajung Kang, IBM|
 | Break | |
 | 13:00 - 14:00 | Quantum Computing with Qiskit - Introduction to Algorithms - Hwajung Kang, IBM|
-| 14:30 - 15:30 | Recent Quantum Research Trends - Jeongho Bang, KIAS|
+| 14:30 - 15:30 | Recent Quantum Research Trends - ‪Kyunghyun Baek, KIAS|
 | 15:30 - 16:00 | Project Pitcher's Time 1|
 | 16:20 - 17:00 | Team Formation & Project Planning 1|
 
