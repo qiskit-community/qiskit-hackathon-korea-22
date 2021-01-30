@@ -45,7 +45,7 @@ The team needs a coach before the final submission at the end of the hackathon.
 | -------------- | --------------------------------- |
 | 09:00 - 09:30 | Introduction to Quantum Computing – Paul Nation, IBM |
 | 09:30 - 10:00 | Quantum Machine Learning -  June-Koo Kevin Rhee, KAIST |
-| 10:30 - 11:00 | Designing Superconducting Qubits – Hanhee Paik, IBM|
+| 10:30 - 11:00 | Introduction to Superconducting Qubits – Hanhee Paik, IBM|
 | 11:00 - 11:30 | Qiskit Metal Intro & Demonstration - Zlatko Minev/Thomas McConkey, IBM |
 | Break | |
 | 13:00 - 14:00 | Project Pitcher's Time 2|
