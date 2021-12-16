@@ -5,7 +5,7 @@
 ## Eunchan's Team 
 
 https://github.com/qiskit-community/qiskit-hackathon-korea-21/issues  
-Issue # 18 : Exploring Hybrid quantum-classical Neural Networks with PyTorch and Qiskit  
+Issue # 12 : Exploring Hybrid quantum-classical Neural Networks with PyTorch and Qiskit  
 
 ## Things to do before the hackathon
 
