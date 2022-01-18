@@ -37,7 +37,7 @@ The team needs a coach before the final submission at the end of the hackathon.
 | 10:30 - 11:30 | Getting Started - How to contribute to Qiskit - Hojun Lee, KAIST & Dayeong Kang, KNU|
 | Break | |
 | 12:30 - 13:30 | Quantum Information Theory - Hyukjun Kwon, KIAS|
-| 14:00 - 15:00 | Quantum Cryptography and Quantum Communication - ‪Junghwan Shin, KT|
+| 14:00 - 15:00 | Quantum Cryptography and Quantum Communication - ‪Jeonghwan Shin, KT|
 | 15:30 - 16:00 | Project Pitcher's Time 1|
 | 16:00 - 17:00 | Introduction to Qiskit Metal + Demo (Video) 1 - Zlatko Minev & Thomas McConkey, IBM Quantum|
 
@@ -50,7 +50,7 @@ The team needs a coach before the final submission at the end of the hackathon.
 | 13:00 - 14:00 | Quantum Chemistry: Qiskit Nature - Yukio Kawashima, IBM Quantum|
 | 14:00 - 15:00 | Quantum Algorithms for Optimization - Takashi Imamichi, IBM Quantum|
 | 15:00 - 16:00 | Project Pitcher's Time 2|
-| 16:00 - 17:00 | Intellectual properties of open-source projects - TBD|
+| 16:00 - 17:00 | Intellectual properties of Quantum open-source projects - TBD|
 
 ### Day 3 Hackathon
 | Wed (Feb 9)    |  |
