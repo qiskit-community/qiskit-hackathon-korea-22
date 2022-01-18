@@ -1,4 +1,4 @@
-# Qiskit Hackathon Korea 2021
+# Qiskit Hackathon Korea 2022
 
 
 ## Things to do before the hackathon
@@ -30,40 +30,41 @@ The team needs a coach before the final submission at the end of the hackathon.
 
 ## Hackathon Tentative Schedule
 ### Day 1 Orientation and Preparation
-| Tue (Feb 16) |  |
+| Mon (Feb 7) |  |
 | -------------- | --------------------------------- |
 | 9:30 - | Opening remarks & Orientation|
-| 10:00 - 10:30 | Qiskit Installation - Soyoung Shin, Qiskit Advocate|
-| 10:30 - 11:30 | Quantum Computing with Qiskit - Fundamentals - Hwajung Kang, IBM|
+| 10:00 - 10:30 | Journey in Quantum - James Weaver, IBM Quantum|
+| 10:30 - 11:30 | Getting Started - How to contribute to Qiskit - Hojun Lee, KAIST & Dayeong Kang, KNU|
 | Break | |
-| 12:30 - 13:30 | Quantum Computing with Qiskit - Introduction to Algorithms - Hwajung Kang, IBM|
-| 14:00 - 15:00 | Recent Quantum Research Trends - ‪Kyunghyun Baek, KIAS|
+| 12:30 - 13:30 | Quantum Information Theory - Hyukjun Kwon, KIAS|
+| 14:00 - 15:00 | Quantum Cryptography and Quantum Communication - ‪Junghwan Shin, KT|
 | 15:30 - 16:00 | Project Pitcher's Time 1|
-| 16:20 - 17:00 | Team Formation & Project Planning 1|
+| 16:00 - 17:00 | Introduction to Qiskit Metal + Demo (Video) 1 - Zlatko Minev & Thomas McConkey, IBM Quantum|
 
 ### Day 2 Quantum Special Lectures
-| Wed (Feb 17) |  |
+| Tue (Feb 8) |  |
 | -------------- | --------------------------------- |
-| 09:00 - 09:30 | Introduction to Quantum Computing – Paul Nation, IBM |
-| 09:30 - 10:00 | Quantum Machine Learning -  June-Koo Kevin Rhee, KAIST |
-| 10:30 - 11:00 | Introduction to Superconducting Qubits – Hanhee Paik, IBM|
-| 11:00 - 12:00 | Qiskit Metal Intro & Demonstration - Zlatko Minev/Thomas McConkey, IBM |
+| 10:00 - 11:00 | Quantum Machine Learning -  Kyungdeock Park, SKKU |
+| 11:00 - 12:00 | Qiskit Pulse Tutorials – Naoki Kanazawa, IBM Quantum|
 | Break | |
-| 13:00 - 14:00 | Project Pitcher's Time 2|
-| 14:00 - 15:00 | Team Formation 2 ( All Teams Ready) |
+| 13:00 - 14:00 | Quantum Chemistry: Qiskit Nature - Yukio Kawashima, IBM Quantum|
+| 14:00 - 15:00 | Quantum Algorithms for Optimization - Takashi Imamichi, IBM Quantum|
+| 15:00 - 16:00 | Project Pitcher's Time 2|
+| 16:00 - 17:00 | Intellectual properties of open-source projects - Chul-nam Lee, Chungnam University|
 
 ### Day 3 Hackathon
-| Thu (Feb 18) |  |
+| Wed (Feb 9) |  |
 | -------------- | --------------------------------- |
+| 09:00 - 10:00 | Team Formation Ends, Project Ideas Fixed|
 | 09:00 - 12:00 | Hackathon 1 (Coding) |
 | 12:00 - 13:30 | Break & Lunch |
-| 13:30 - 16:30 | Hackathon 2 (Coding) |
+| 13:30 - 17:30 | Hackathon 2 (Coding) |
 
 ### Day 4 Hackathon/Final Presentation/Awards
-| Fri (Feb 19) |  |
+| Thu (Feb 10) |  |
 | -------------- | --------------------------------- |
 | 09:00 - 14:00 | Hackathon 3 (Take lunch break in between) |
-| 14:00 - 15:00 | Coding Ends, Preparation for Presentation |
-| 15:00 - 16:30 | Final Team Presentations (3min) |
+| 14:00 - 15:00 | Coding Ends, Prepare for Presentation |
+| 15:00 - 16:30 | Final Team Presentations (3min/team) |
 | 16:30 - 17:00 | Judging|
 | 17:00 - 17:30 | Awards Ceremony|
