@@ -50,7 +50,7 @@ The team needs a coach before the final submission at the end of the hackathon.
 | 13:00 - 14:00 | Quantum Chemistry: Qiskit Nature - Yukio Kawashima, IBM Quantum|
 | 14:00 - 15:00 | Quantum Algorithms for Optimization - Takashi Imamichi, IBM Quantum|
 | 15:00 - 16:00 | Project Pitcher's Time 2|
-| 16:00 - 17:00 | Intellectual properties of open-source projects - Chul-nam Lee, Chungnam University|
+| 16:00 - 17:00 | Intellectual properties of open-source projects - TBD|
 
 ### Day 3 Hackathon
 | Wed (Feb 9)    |  |
