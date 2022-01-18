@@ -29,8 +29,8 @@ The team needs a coach before the final submission at the end of the hackathon.
 
 
 ## Hackathon Tentative Schedule
-### Day 1 Orientation and Preparation
-| Mon (Feb 7) |  |
+### Day 1 Intro to Quantum
+| Mon (Feb 7)    |  |
 | -------------- | --------------------------------- |
 | 9:30 - | Opening remarks & Orientation|
 | 10:00 - 10:30 | Journey in Quantum - James Weaver, IBM Quantum|
@@ -41,8 +41,8 @@ The team needs a coach before the final submission at the end of the hackathon.
 | 15:30 - 16:00 | Project Pitcher's Time 1|
 | 16:00 - 17:00 | Introduction to Qiskit Metal + Demo (Video) 1 - Zlatko Minev & Thomas McConkey, IBM Quantum|
 
-### Day 2 Quantum Special Lectures
-| Tue (Feb 8) |  |
+### Day 2 Quantum Applications
+| Tue (Feb 8)    |  |
 | -------------- | --------------------------------- |
 | 10:00 - 11:00 | Quantum Machine Learning -  Kyungdeock Park, SKKU |
 | 11:00 - 12:00 | Qiskit Pulse Tutorials – Naoki Kanazawa, IBM Quantum|
@@ -53,7 +53,7 @@ The team needs a coach before the final submission at the end of the hackathon.
 | 16:00 - 17:00 | Intellectual properties of open-source projects - Chul-nam Lee, Chungnam University|
 
 ### Day 3 Hackathon
-| Wed (Feb 9) |  |
+| Wed (Feb 9)    |  |
 | -------------- | --------------------------------- |
 | 09:00 - 10:00 | Team Formation Ends, Project Ideas Fixed|
 | 09:00 - 12:00 | Hackathon 1 (Coding) |
@@ -61,7 +61,7 @@ The team needs a coach before the final submission at the end of the hackathon.
 | 13:30 - 17:30 | Hackathon 2 (Coding) |
 
 ### Day 4 Hackathon/Final Presentation/Awards
-| Thu (Feb 10) |  |
+| Thu (Feb 10)    |  |
 | -------------- | --------------------------------- |
 | 09:00 - 14:00 | Hackathon 3 (Take lunch break in between) |
 | 14:00 - 15:00 | Coding Ends, Prepare for Presentation |
