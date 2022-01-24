@@ -1,4 +1,4 @@
-# Preparation for Qiskit Hackathon Korea 2021
+# Preparation for Qiskit Hackathon Korea 2022
 
 ## Things to install
 
