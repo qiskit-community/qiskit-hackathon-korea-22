@@ -39,7 +39,7 @@ The team needs a coach before the final submission at the end of the hackathon.
 | 12:30 - 13:30 | Quantum Information Theory - Hyukjoon Kwon, KIAS|
 | 14:00 - 15:00 | Quantum key distribution method and domestic case - ‪Jeonghwan Shin, KT|
 | 15:30 - 16:00 | Project Pitcher's Time 1|
-| 16:00 - 17:00 | Introduction to Qiskit Metal + Demo (Video) 1 - Zlatko Minev & Thomas McConkey, IBM Quantum|
+| 16:00 - 17:30 | Superconducting Circuit Design in QisKit Metal - Zlatko Minev & Thomas McConkey, IBM Quantum|
 
 ### Day 2 Quantum Applications
 | Tue (Feb 8)    |  |
