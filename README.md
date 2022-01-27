@@ -38,8 +38,8 @@ The team needs a coach before the final submission at the end of the hackathon.
 | Break | |
 | 12:30 - 13:30 | Quantum Information Theory - Hyukjoon Kwon, KIAS|
 | 14:00 - 15:00 | Quantum key distribution method and domestic case - ‪Jeonghwan Shin, KT|
-| 15:30 - 16:00 | Project Pitcher's Time 1|
-| 16:00 - 17:30 | Superconducting Circuit Design in QisKit Metal - Zlatko Minev & Thomas McConkey, IBM Quantum|
+| 15:00 - 16:30 | Superconducting Circuit Design in QisKit Metal - Zlatko Minev & Thomas McConkey, IBM Quantum|
+| 16:30 - 18:00 | Project Pitcher's Time 1|
 
 ### Day 2 Quantum Applications
 | Tue (Feb 8)    |  |
@@ -49,8 +49,8 @@ The team needs a coach before the final submission at the end of the hackathon.
 | Break | |
 | 13:00 - 14:00 | Quantum Chemistry: Qiskit Nature - Yukio Kawashima, IBM Quantum|
 | 14:00 - 15:00 | Quantum Algorithms for Optimization - Takashi Imamichi, IBM Quantum|
-| 15:00 - 16:00 | Project Pitcher's Time 2|
-| 16:00 - 17:00 | Software IP and Open Source License (소프트웨어의 지식재산권과 오픈소스 라이선스) - Prof. Chul-nam Lee, CNU|
+| 15:00 - 16:00 | Software IP and Open Source License (소프트웨어의 지식재산권과 오픈소스 라이선스) - Prof. Chul-nam Lee, CNU|
+| 16:00 - 18:00 | Project Pitcher's Time 2|
 
 ### Day 3 Hackathon
 | Wed (Feb 9)    |  |
