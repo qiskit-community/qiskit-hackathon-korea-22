@@ -33,8 +33,8 @@ The team needs a coach before the final submission at the end of the hackathon.
 | Mon (Feb 7)    |  |
 | -------------- | --------------------------------- |
 | 9:30 - | Opening remarks & Orientation|
-| 10:00 - 10:30 | Journey in Quantum - James Weaver, IBM Quantum|
-| 10:30 - 11:30 | Getting Started - How to contribute to Qiskit - Hojun Lee, KAIST & Dayeong Kang, KNU|
+| 10:00 - 11:00 | Journey in Quantum - James Weaver, IBM Quantum|
+| 11:00 - 12:00 | Getting Started - How to contribute to Qiskit - Hojun Lee, KAIST & Dayeong Kang, KNU|
 | Break | |
 | 13:00 - 14:00 | Quantum Information Theory - Hyukjoon Kwon, KIAS|
 | 14:00 - 15:00 | Quantum key distribution method and domestic case - ‪Jeonghwan Shin, KT|
