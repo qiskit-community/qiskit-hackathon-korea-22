@@ -65,6 +65,6 @@ The team needs a coach before the final submission at the end of the hackathon.
 | -------------- | --------------------------------- |
 | 09:00 - 14:00 | Hackathon 3 (Take lunch break in between) |
 | 14:00 - 15:00 | Coding Ends, Prepare for Presentation |
-| 15:00 - 16:30 | Final Team Presentations (3min/team) |
-| 16:30 - 17:00 | Judging|
-| 17:00 - 17:30 | Awards Ceremony|
+| 15:00 - 17:00 | Final Team Presentations (3min/team) |
+| 17:30 - 18:00 | Judging|
+| 18:00 - 18:30 | Awards Ceremony|
