@@ -38,6 +38,9 @@ Feel free to use any additional libraries or packages you may need for your impl
   - [Pygame game engine](https://www.pygame.org/wiki/GettingStarted)
   - [Unity game engine](https://unity.com)
   - [Godot game engine](https://godotengine.org)
+  
+- For installing Qiskit-Metal for this hackathon
+  - ```pip install git+https://github.com/Qiskit/qiskit-metal.git@Korea-hackathon-2022```
 
 ## Things to learn
 
@@ -54,3 +57,6 @@ Here are some learning resources for Qiskit:
 - Qiskit Summer School: 
   - [Qiskit Summer School 2020](https://www.youtube.com/watch?v=Rs2TzarBX5I&list=PLOFEBzvs-VvrXTMy5Y2IqmSaUjfnhvBHR)
   - [Qiskit Summer School 2021](https://www.youtube.com/watch?v=xgA4Dx_7q34&list=PLOFEBzvs-VvqJwybFxkTiDzhf5E11p8BI)
+- Qiskit Metal:
+  - [Qiskit Metal Tutorials](https://qiskit.org/documentation/metal/tut/index.html)
+  - [Qiskit Metal tutorial playlist](https://www.youtube.com/playlist?list=PLOFEBzvs-VvqHl5ZqVmhB_FcSqmLufsjb)
