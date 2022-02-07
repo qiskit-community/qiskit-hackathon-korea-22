@@ -44,7 +44,7 @@ The team needs a coach before the final submission at the end of the hackathon.
 ### Day 2 Quantum Applications
 | Tue (Feb 8)    |  |
 | -------------- | --------------------------------- |
-| 10:00 - 11:00 | Quantum Machine Learning -  Kyungdeock Park, SKKU |
+| 10:00 - 11:00 | Quantum Machine Learning - Dr. Jeongho Bang, ETRI |
 | 11:00 - 12:00 | Controlling qubit with Qiskit Pulse – Naoki Kanazawa, IBM Quantum|
 | Break | |
 | 13:00 - 14:00 | Quantum Chemistry: Qiskit Nature - Yukio Kawashima, IBM Quantum|
