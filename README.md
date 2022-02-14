@@ -6,7 +6,7 @@
 
 - **2nd Place:** [#21 Predicting ground state with novel quantum descriptor of molecules using QML](https://github.com/qiskit-community/qiskit-hackathon-korea-22/issues/21)
 
-- **3rd Place:** [#17 QITE implementation of quantum models using Qiskit](https://github.com/qiskit-community/qiskit-hackathon-korea-22/issues/17)**
+- **3rd Place:** [#17 QITE implementation of quantum models using Qiskit](https://github.com/qiskit-community/qiskit-hackathon-korea-22/issues/17)
 
 - Honorary Mention: [#13 Implement the algorithm for the hidden shift problem and explain it!](https://github.com/qiskit-community/qiskit-hackathon-korea-22/issues/13)
 
