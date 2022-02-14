@@ -1,14 +1,17 @@
 # Qiskit Hackathon Korea 2022
 
 ## Winners!!
-**[1st Place: #19 Q-urling (Quantum Curling)](https://github.com/qiskit-community/qiskit-hackathon-korea-22/issues/19)
-[2nd Place: #21 Predicting ground state with novel quantum descriptor of molecules using QML](https://github.com/qiskit-community/qiskit-hackathon-korea-22/issues/21)
-[3rd Place: #17 QITE implementation of quantum models using Qiskit](https://github.com/qiskit-community/qiskit-hackathon-korea-22/issues/17)**
 
-Honorary Mention: [#13 Implement the algorithm for the hidden shift problem and explain it!](https://github.com/qiskit-community/qiskit-hackathon-korea-22/issues/13)
+- [1st Place: #19 Q-urling (Quantum Curling)](https://github.com/qiskit-community/qiskit-hackathon-korea-22/issues/19)
 
-Community Choice I: [#22 Quantum cryptanalysis using Quantum Neural Network(QNN) and QML](https://github.com/qiskit-community/qiskit-hackathon-korea-22/issues/22)
-Community Choice II: [#5 Hangul 한글 characters classification by Quantum Machine Learning](https://github.com/qiskit-community/qiskit-hackathon-korea-22/issues/5)
+- [2nd Place: #21 Predicting ground state with novel quantum descriptor of molecules using QML](https://github.com/qiskit-community/qiskit-hackathon-korea-22/issues/21)
+
+- [3rd Place: #17 QITE implementation of quantum models using Qiskit](https://github.com/qiskit-community/qiskit-hackathon-korea-22/issues/17)**
+
+- Honorary Mention: [#13 Implement the algorithm for the hidden shift problem and explain it!](https://github.com/qiskit-community/qiskit-hackathon-korea-22/issues/13)
+
+- Community Choice I: [#22 Quantum cryptanalysis using Quantum Neural Network(QNN) and QML](https://github.com/qiskit-community/qiskit-hackathon-korea-22/issues/22)
+- Community Choice II: [#5 Hangul 한글 characters classification by Quantum Machine Learning](https://github.com/qiskit-community/qiskit-hackathon-korea-22/issues/5)
 
 
 
